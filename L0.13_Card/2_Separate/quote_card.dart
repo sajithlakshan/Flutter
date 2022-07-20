@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'quote.dart';
 
-class QuoteCard extends StatelessWidget {
-  final Quote DDR;
-  QuoteCard({required this.DDR});
+class KALUWA extends StatelessWidget {
+  final SAJI DDR;
+  KALUWA({required this.DDR});
 
   @override
   Widget build(BuildContext context) {
@@ -34,3 +34,4 @@ class QuoteCard extends StatelessWidget {
         ));
   }
 }
+  

@@ -14,11 +14,5 @@ void main() {
   print("---------------------------------------------");
   result = numbers.where((x) => x > 5);
   print(result.toList());
-  /*
-  final suggestions = allBooks.where((Dbooks) {
-    final BookTitle = Dbooks.title.toLowerCase();
-  }).toList();
 
-  List<COMP> books = allBooks;
-  */
 }
